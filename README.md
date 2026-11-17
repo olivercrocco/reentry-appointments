@@ -4,7 +4,7 @@ A free tool for formerly incarcerated individuals to keep track of appointments 
 
 Try it at https://olivercrocco.com/appointments/, or download `appointments.html` and open it in any browser. The single file works without the internet.
 
-It was built for a pre-release employment skills course in Louisiana and is part of the [Reentry Toolkit](https://olivercrocco.com/reentry/). Nothing in it is specific to Louisiana.
+It was built for an employment skills course in a Louisiana reentry bridge program for people in their first year after release, and is part of the [Reentry Toolkit](https://olivercrocco.com/reentry/). Nothing in it is specific to Louisiana.
 
 ## What it does
 
